@@ -5,7 +5,7 @@ export const filterData = [
     },
     {
         id : "2",
-    title : "Developement"
+    title : "Development"
     },
     {
         id : "3",
